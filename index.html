@@ -1,346 +1,257 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-	
-	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	<!-- site title -->
-	<title>FacturanvetaPOS - TIENDAS</title>
-	<!-- Stylesheets css comes here -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/whatsapp.css">
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/nivo-lightbox.css">
-	<link rel="stylesheet" href="css/nivo_themes/default/default.css">
-	<link rel="stylesheet" href="css/templatemo-style.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
- 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76847975-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  gtag('config', 'UA-76847975-1');
-</script>
-<!-- Whatsapp -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
+  <title>FacturaventaPOS - Software POS y Facturación Electrónica en Colombia</title>
+  <meta name="description" content="Sistema POS 100% web con facturación electrónica. Ideal para tiendas, restaurantes, hoteles y parqueaderos. Hosting en Colombia, soporte técnico y capacitación personalizada.">
+  <meta name="keywords" content="software POS, facturación electrónica, sistema POS Colombia, punto de venta, facturaventaPOS, tiendas, restaurantes, hoteles, parqueaderos">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="FacturaventaPOS - Sistema POS con Facturación Electrónica">
+  <meta property="og:description" content="Tu negocio más eficiente con FacturaventaPOS. Facturación electrónica, hosting en Colombia, soporte técnico y capacitación incluida.">
+  <meta property="og:image" content="https://facturaventapos.com/images/logo.png">
+  <meta property="og:url" content="https://facturaventapos.com">
+  <meta name="twitter:card" content="summary_large_image">
 
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/whatsapp.css">
+  <link rel="stylesheet" href="css/animate.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/nivo-lightbox.css">
+  <link rel="stylesheet" href="css/nivo_themes/default/default.css">
+  <link rel="stylesheet" href="css/templatemo-style.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Dosis:400,700&display=swap" rel="stylesheet">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76847975-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-76847975-1');
+  </script>
+
+  <!-- WhatsApp Button -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, estoy interesado en FacturaventaPOS" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+  </a>
 </head>
+
 <body data-spy="scroll" data-target=".navbar-collapse">
 
-<!-- preloader section -->
+<!-- Preloader -->
 <div class="preloader">
-	<div class="sk-spinner sk-spinner-rotating-plane"></div>
+  <div class="sk-spinner sk-spinner-rotating-plane"></div>
 </div>
- 
-<!-- navigation section -->
-<nav class="navbar navbar-default navbar-fixed-top sticky-navigation" role="navigation">
-	<div class="container">
-		<div class="navbar-header">
-			<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-				<span class="icon icon-bar"></span>
-				<span class="icon icon-bar"></span>
-				<span class="icon icon-bar"></span>
-			</button>
-			<a href="#"><img src="images/logo.png" class="img-responsive site-logo" alt="logo"></a>
-		</div>
-		<div class="collapse navbar-collapse">
-			<ul class="nav navbar-nav navbar-right main-navigation">
-				<li><a href="#home" class="smoothScroll">INICIO</a></li>
-				<li><a href="baresyrestaurantes.html" class="smoothScroll">POS BARES Y RESTAURANTES</a></li>
-				<li><a href="hoteles.html" class="smoothScroll">Software Hoteles</a></li>
-				<li><a href="parqueaderos.html" class="smoothScroll">Parqueaderos</a></li>
-				<li><a href="automatizacion.html" class="smoothScroll">Automatizaciones</a></li>
-				<li><a href="#contact" class="smoothScroll">CONTACTO</a></li>
-			</ul>
-		</div>
-	</div>
+
+<!-- NAVIGATION -->
+<nav class="navbar navbar-default navbar-fixed-top sticky-navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a href="#home"><img src="images/logo.png" class="img-responsive site-logo" alt="FacturaventaPOS logo"></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right main-navigation">
+        <li><a href="#home" class="smoothScroll">Inicio</a></li>
+        <li><a href="baresyrestaurantes.html">POS Bares y Restaurantes</a></li>
+        <li><a href="hoteles.html">Software Hoteles</a></li>
+        <li><a href="parqueaderos.html">Parqueaderos</a></li>
+        <li><a href="automatizacion.html">Automatizaciones</a></li>
+        <li><a href="#contact" class="smoothScroll">Contacto</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>
 
-<!-- home section -->
-<section id="home" class="tm-home">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12">
-            	<h1 class="wow fadeIn tm-home-logo" data-wow-delay="1.3s">FacturaventaPOS</h1>
-				<h2 class="wow fadeIn tm-home-header" data-wow-delay="1.6s">SISTEMAS POS PARA TODO TIPO DE TIENDAS</h2>
-				<h2 class="wow fadeInUp tm-home-header" data-wow-delay="1.9s">APLICACIONES EN PUNTO DE VENTA 100% WEB</h2>
-			</div>
-		</div>
-	</div>
+<!-- HOME -->
+<section id="home" class="tm-home text-center">
+  <div class="container">
+    <h1 class="wow fadeIn tm-home-logo" data-wow-delay="1.2s">FacturaventaPOS</h1>
+    <h2 class="wow fadeIn" data-wow-delay="1.5s">Sistemas POS para todo tipo de tiendas</h2>
+    <h3 class="wow fadeInUp" data-wow-delay="1.8s">Aplicaciones 100% web — rápidas, seguras y sin instalaciones complicadas</h3>
+  </div>
 </section>
 
-<!-- social icons section -->
+<!-- FEATURES -->
 <section id="tm-icons" class="tm-icons">
-	<div class="container">
-		<div class="row">
-			
-				<div class="col-md-4 col-sm-12 tm-icon-1">
-					<div class="wow fadeInUp" data-wow-delay="1.3s">
-						<div class="media">
-							<div class="media-object pull-left">
-								<a href="#" class="fa fa-desktop"></a>
-							</div>
-							<div class="media-body">
-								<h3 class="media-heading">Usalo en donde <span class="green">Quieras</span></h3>
-								<p>El sistema POS funciona bien en multiples dispositivos desde tu navegador preferido, Android, iOS, Windows. Recuerda puedes elegir una instacion local o en la nube.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-12 tm-icon-2">
-					<div class="wow fadeInUp" data-wow-delay="1.6s">
-						<div class="media">
-							<div class="media-object pull-left">
-								<a href="#" class="fa fa-tags"></a>
-							</div>
-							<div class="media-body">
-								<h3 class="media-heading">Fácil administración <span class="green">Software POS</span></h3>
-								<p>Permite administrar de manera local y remota los registros del sistema. Si lo desea puede obtener información en tiempo real de las ventas y otros datos importantes sobre su negocio</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-12 tm-icon-3">
-					<div class="wow fadeInUp" data-wow-delay="1.9s">
-						<div class="media">
-							<div class="media-object pull-left">
-								<a href="#" class="fa fa-money"></a>
-							</div>
-							<div class="media-body">
-								<h3 class="media-heading">Tu Eliges la mejor tarifa mensual <span class="green">Para tu negocio </span></h3>
-								<p>Te ofremos lo ultimo en software libre para punto de venta por esta razón tu inversión es por Instalación, Capacitación y Soporte.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			
-		</div>
-	</div>
-</section>
-
-<!-- about section -->
-<section id="about" class="tm-about">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-1 col-sm-1"></div>
-			<div class="col-md-5 col-sm-12">
-				<img src="images/about-img1.jpg" class="img-responsive wow fadeIn" data-wow-delay="0.6s" alt="about">
-				<img src="images/about-img2.jpg" class="img-responsive wow fadeInUp" data-wow-delay="0.6s" alt="about">
-			</div>
-			<div class="col-md-5 col-sm-12 about-des wow fadeInRight" data-wow-delay="0.9s">
-				<h1>Caracteristicas que no encontraras en ninguna otra parte</h1>
-				<h3 class="tm-about-h3">Hosting en Colombia para que tengas la mejor velocidad de conexion</h3>
-				<p>Ahora FacturaventaPOS con un nuevo módulo que te permite abrir desde cualquier navegador web tu sistema POS. Ahora podrás conectarte de forma rápida y segura desde cualquier tipo de dispositivo electrónico para hacer las tareas que necesites sin interrumpir las ventas en tus Puntos de Pago.</p>
-                <p>Tendrás módulos muy importantes para tu Punto de Venta tales como compras, inventarios, facturación, empleados y paquetes de productos. Además de muchos reportes de ventas e inventarios</p>
-				<p></p>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- service section -->
-<section id="service" class="tm-service">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12">
-				<h2>Algunas de sus funciones principales</h2>
-		  </div>
-			<div class="col-md-4 col-sm-4 border-right border-bottom">
-				<i class="fa fa-users wow bounceIn" data-wow-delay="0.3s"></i>
-				<h3 class="tm-service-h3">Clientes CxC y CxP</h3>
-		  </div>
-			<div class="col-md-4 col-sm-4 border-right border-bottom">
-				<i class="fa fa-cubes wow bounceIn" data-wow-delay="0.6s"></i>
-		      <h3 class="tm-service-h3">Productos y UOM</h3>   
-            </div>
-			<div class="col-md-4 col-sm-4 border-bottom">
-				<i class="fa fa-shopping-cart wow bounceIn" data-wow-delay="0.9s"></i>
-				<h3 class="tm-service-h3">órdenes de compra</h3>
-			</div>
-			<div class="col-md-4 col-sm-4 border-right">
-				<i class="fa fa-credit-card wow bounceIn" data-wow-delay="1s"></i>
-				<h3 class="tm-service-h3">Varios Metodos de Pago</h3>
-			</div>
-			<div class="col-md-4 col-sm-4 border-right">
-				<i class="fa fa-share-alt wow bounceIn" data-wow-delay="1.3s"></i>
-				<h3 class="tm-service-h3">Inventarios Avanzados</h3>
-			</div>
-			<div class="col-md-4 col-sm-4 border-right">
-				<i class="fa fa-bar-chart wow bounceIn" data-wow-delay="1.6s"></i>
-				<h3 class="tm-service-h3">Generar Reportes</h3>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- price section -->
-<section id="price" class="tm-price">
-	<div class="container">
-		<div class="col-md-12 col-sm-12">
-			<h2 class="tm-price-section-heading">SISTEMA POS CON HOSTING EN COLOMBIA PARA QUE TENGAS MAS VELOCIDAD DE CONEXIÓN</h2>
-			<h3 class="tm-price-section-heading">SISTEMA POS --SIN-- FACTURACION ELECTRONICA</h3>
-		</div>
-		<div class="col-md-6 col-sm-12">
-			<div class="plan wow bounceIn" data-wow-delay="0.3s">
-				<h3 class="plan_title" align="center"> NUBE: PAGANDO MENSUAL</h3>
-				<h3 class="plan_title" align="center">$60.000 COP</h3>
-					<ul>
-						<li>Acceso al software por internet y soporte técnico por (1) mes</li>
-						<li>Capacitación virtual personalizada</li>
-						<li>Almacenamiento Ilimitado Facturas, Productos y Clientes</li>
-						<li>Importacion de Productos Excel</li>
-						<li>Copias de Seguridad semananales</li>
-						<li>Hasta 2 Cajas / 4 Usuarios en línea</li>
-						<li>Facturas POS Ilimitadas</li>
-					</ul>
-					<a href="https://wa.link/im90bp" class="btn btn-default">Me interesa</a>
-			</div>
-		</div>
-		
-		<div class="col-md-6 col-sm-12">
-			<div class="plan wow bounceIn" data-wow-delay="0.6s">
-				<h3 class="plan_title" align ="center">NUBE: PAGANDO ANUAL</h3>
-				<h3 class="plan_title" align="center">$520.000 COP</h3>
-					<ul>
-						<li>Acceso al software por internet y soporte técnico por (1) año</li>
-						<li>Capacitación virtual personalizada</li>
-						<li>Almacenamiento Ilimitado Facturas, Productos y Clientes</li>
-						<li>Importacion de Productos Excel</li>
-						<li>Copias de Seguridad Diarias</li>
-						<li>Hasta 2 Cajas / 4 Usuarios en línea</li>
-						<li>Facturas POS Ilimitadas</li>		
-					</ul>
-					<a href="https://wa.link/tsrqu7" class="btn btn-default">Me interesa</a>
-			</div>
-		</div>
-	</div>
-
-    <div id="precios" class="text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 wow bounce">
-                   <h3 class="tm-price-section-heading">SISTEMA POS --CON-- FACTURACION ELECTRONICA</h3>
-                </div>
-		           <div class="col-md-6 col-sm-12">
-			          <div class="plan wow bounceIn" data-wow-delay="0.3s">
-                      <h3 class="plan_title">NUBE: PAGANDO MENSUAL</h3>
-					  <h3 class="plan_title" align="center"> $122.000</h3>
-                        <ul>
-							<li>Acceso al software por internet y soporte técnico por (1) mes</li>
-							<li>Capacitación virtual personalizada</li>
-							<li>Almacenamiento Ilimitado Facturas, Productos y Clientes</li>
-							<li>Importacion de Productos Excel o CSV</li>
-							<li>Copias de Seguridad Semanales</li>
-							<li>Hasta 2 Cajas / 4 Usuarios en línea</li>
-							<li>Facturas POS Ilimitadas</li>
-							<li>Facturas Electronicas POS Ilimitadas QR + CUFE</li>
-							<li>Actualizaciones Constantes</li>
-							<li>Modulo de facturación electrónica POS (Punto de Venta)</li>
-							<li>Documentos: Factura electrónica, nota crédito, nota débito y documento soporte</li>
-							<li>Acompañamiento en su proceso de implementación y Capacitación</li>
-                       </ul>
-					  <a href="https://wa.link/x1d1kl" class="btn btn-default">Me interesa</a>
-                    </div>
-				</div>
-
-				<div class="col-md-6 col-sm-12">
-					<div class="plan wow bounceIn" data-wow-delay="0.3s">
-                      <h3 class="plan_title">NUBE: PAGANDO ANUAL</h3>
-					  <h3 class="plan_title" align="center">$890.000</h3>
-                        <ul>
-							<li>Acceso al software por internet y soporte técnico (1) año</li>
-							<li>Capacitación virtual personalizada</li>
-							<li>Almacenamiento Ilimitado Facturas, Productos y Clientes</li>
-							<li>Importacion de Productos Excel o CSV</li>
-							<li>Copias de Seguridad Semanales</li>
-							<li>Hasta 2 Cajas / 4 Usuarios en línea</li>
-							<li>Facturas POS Ilimitadas</li>
-							<li>Facturas Electronicas POS Ilimitadas QR + CUFE</li>
-							<li>Actualizaciones Constantes</li>
-							<li>Modulo de facturación electrónica POS (Punto de Venta)</li>
-							<li>Documentos: Factura electrónica, nota crédito, nota débito y documento soporte</li>
-							<li>Acompañamiento en su proceso de implementación y Capacitación</li>
-                       </ul>
-					  <a href="https://wa.link/x4hafp" class="btn btn-default">Me interesa</a>
-                   </div>
-				</div>
-				<div class="col-md-12 wow bounce">
-                    <h2>Contamos con el mejor soporte para usted y su negocio</h2>
-                </div>
-				<div class="col-md-12 col-sm-12">
-			       <h4>Los planes en la nube (de pago mensual y de pago anual) se ofrecen en la modalidad SaaS (Software as a service) que significa que el software es un servicio disponible a través de internet. El software se arrienda y vende "como es" y permitimos al usuario evaluar sus características en un una gran variedad de videos publicados en Youtube. Los planes de la modalidad SaaS no tienen permanencia.</h4> 
-		        </div>
-            </div>
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="icon-box">
+          <i class="fa fa-desktop fa-3x"></i>
+          <h3>Úsalo donde <span class="green">quieras</span></h3>
+          <p>Funciona desde tu navegador en Android, iOS o Windows. Elige instalación local o en la nube, siempre con la mejor experiencia.</p>
         </div>
-	</div>
-
+      </div>
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="icon-box">
+          <i class="fa fa-tags fa-3x"></i>
+          <h3>Gestión <span class="green">fácil y potente</span></h3>
+          <p>Administra tu negocio desde cualquier lugar. Visualiza ventas, reportes y movimientos en tiempo real sin interrupciones.</p>
+        </div>
+      </div>
+      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="icon-box">
+          <i class="fa fa-money fa-3x"></i>
+          <h3>Tarifas <span class="green">flexibles</span></h3>
+          <p>Elige el plan que se adapte a ti. Pagas por instalación, capacitación y soporte — sin costos ocultos.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<!-- contact section -->
-<section id="contact" class="tm-contact">
-     <div class="container">
-                <div class="col-md-3 col-sm-6 wow" data-wow-delay="0.6s">
-                    <h2><strong>Contacto</strong></h2>
-					<a href="tel:+573145194892">
-                       <h3><i class="fa fa-mobile" aria-hidden="true"></i>
-						<strong>&nbsp;Móvil 3145194892</strong></h3>
-					</a>
-                </div>
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="0.9s">
-                    <address>
-                        <h3>Oficina Virtual</h3>
-                    </address>
-                  
-                    <address> 
-                     <a style="color: inherit; /* blue colors for links too */
-                        text-decoration: inherit; /* no underline */" href="https://www.facebook.com/facturaventa/">
-						<p><i class="fa fa-facebook too-icon"></i> Visita nuestra pagina de Facebook</p></a>
-				    <a style="color: inherit; /* blue colors for links too */
-                        text-decoration: inherit; /* no underline */" href="https://www.youtube.com/c/FacturaVentaPOS/videos">
-				    <p><em class="fa fa-youtube too-icon" aria-hidden="true"></em> Canal de YouTube</p></a>
-						 <a style="color: inherit; /* blue colors for links too */
-                        text-decoration: inherit; /* no underline */" href="https://www.youtube.com/c/FacturaVentaPOS/videos">
-							 <p><em class="fa fa-envelope-o too-icon"></em>facturaventapos@gmail.com</p></a>
-						
-                    </address>
-                </div>
-                <div class="col-md-3 col-sm-6 col-lg-6">
-					<h2>
-						<a style="color: inherit; /* blue colors for links too */
-                        text-decoration: inherit; /* no underline */" target="_blank" href="https://youtu.be/tD8UXK6MppI">
-							 <strong>YouTube Ver Demo</strong></a>
-					</h2>      
-              </div>
-	    </div>
-	
+<!-- ABOUT -->
+<section id="about" class="tm-about">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6 wow fadeIn" data-wow-delay="0.6s">
+        <img src="images/about-img1.jpg" class="img-responsive mb-3" alt="FacturaventaPOS interfaz">
+        <img src="images/about-img2.jpg" class="img-responsive" alt="FacturaventaPOS módulos">
+      </div>
+      <div class="col-md-6 wow fadeInRight" data-wow-delay="0.9s">
+        <h2>Características que marcan la diferencia</h2>
+        <h4>Hosting en Colombia para máxima velocidad y confiabilidad</h4>
+        <p>Con FacturaventaPOS, accede desde cualquier navegador a tu punto de venta. Administra tus operaciones sin interrumpir las ventas y mantén tus datos siempre seguros.</p>
+        <p>Incluye módulos esenciales: compras, inventarios, facturación, empleados y reportes avanzados. Todo en una sola plataforma fácil de usar.</p>
+      </div>
+    </div>
+  </div>
 </section>
 
-<!-- footer section -->
-<footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12">
-				<img src="images/logo.png" class="img-responsive" alt="footer logo">
-				<p>Copyright &copy; 2025 FacturaventaPOS</p>
-			</div>
-		</div>
-	</div>
+<!-- SERVICES -->
+<section id="service" class="tm-service text-center">
+  <div class="container">
+    <h2>Funciones principales del sistema</h2>
+    <div class="row">
+      <div class="col-md-4 col-sm-6"><i class="fa fa-users wow bounceIn"></i><h4>Clientes CxC y CxP</h4></div>
+      <div class="col-md-4 col-sm-6"><i class="fa fa-cubes wow bounceIn"></i><h4>Gestión de productos y unidades</h4></div>
+      <div class="col-md-4 col-sm-6"><i class="fa fa-shopping-cart wow bounceIn"></i><h4>Órdenes de compra</h4></div>
+      <div class="col-md-4 col-sm-6"><i class="fa fa-credit-card wow bounceIn"></i><h4>Múltiples métodos de pago</h4></div>
+      <div class="col-md-4 col-sm-6"><i class="fa fa-share-alt wow bounceIn"></i><h4>Inventarios avanzados</h4></div>
+      <div class="col-md-4 col-sm-6"><i class="fa fa-bar-chart wow bounceIn"></i><h4>Reportes en tiempo real</h4></div>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section id="price" class="tm-price text-center">
+  <div class="container">
+    <h2>Sistema POS con hosting en Colombia</h2>
+    <p>Disfruta mayor velocidad, estabilidad y soporte local.</p>
+
+    <h3>Sin facturación electrónica</h3>
+    <div class="row">
+      <div class="col-md-6 wow fadeInUp">
+        <div class="plan">
+          <h4>Nube (Pago mensual)</h4>
+          <h3>$60.000 COP</h3>
+          <ul>
+            <li>Acceso por internet y soporte técnico por 1 mes</li>
+            <li>Capacitación virtual personalizada</li>
+            <li>Almacenamiento ilimitado de facturas, productos y clientes</li>
+            <li>Importación de productos desde Excel</li>
+            <li>Copias de seguridad semanales</li>
+            <li>Hasta 2 cajas / 4 usuarios en línea</li>
+            <li>Facturas POS ilimitadas</li>
+          </ul>
+          <a href="https://wa.link/im90bp" class="btn btn-success">Me interesa</a>
+        </div>
+      </div>
+      <div class="col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="plan">
+          <h4>Nube (Pago anual)</h4>
+          <h3>$520.000 COP</h3>
+          <ul>
+            <li>Acceso y soporte técnico por 1 año</li>
+            <li>Capacitación virtual personalizada</li>
+            <li>Copias de seguridad diarias</li>
+            <li>Hasta 2 cajas / 4 usuarios en línea</li>
+            <li>Facturas POS ilimitadas</li>
+          </ul>
+          <a href="https://wa.link/tsrqu7" class="btn btn-success">Me interesa</a>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <h3>Con facturación electrónica</h3>
+    <div class="row">
+      <div class="col-md-6 wow fadeInUp">
+        <div class="plan">
+          <h4>Nube (Pago mensual)</h4>
+          <h3>$122.000 COP</h3>
+          <ul>
+            <li>Soporte técnico por 1 mes</li>
+            <li>Capacitación personalizada</li>
+            <li>Facturación electrónica ilimitada (QR + CUFE)</li>
+            <li>Actualizaciones automáticas</li>
+            <li>Incluye documentos: factura, nota crédito, nota débito y documento soporte</li>
+          </ul>
+          <a href="https://wa.link/x1d1kl" class="btn btn-success">Me interesa</a>
+        </div>
+      </div>
+      <div class="col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="plan">
+          <h4>Nube (Pago anual)</h4>
+          <h3>$890.000 COP</h3>
+          <ul>
+            <li>Soporte técnico por 1 año</li>
+            <li>Facturación electrónica POS ilimitada</li>
+            <li>Actualizaciones constantes</li>
+            <li>Capacitación y acompañamiento en implementación</li>
+          </ul>
+          <a href="https://wa.link/x4hafp" class="btn btn-success">Me interesa</a>
+        </div>
+      </div>
+    </div>
+
+    <p class="mt-4">Modalidad SaaS (Software como servicio). Sin permanencia, con libertad total para tu negocio.</p>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="tm-contact text-center">
+  <div class="container">
+    <h2>Contacto</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <a href="tel:+573145194892"><h4><i class="fa fa-mobile"></i> Móvil: 314 519 4892</h4></a>
+      </div>
+      <div class="col-md-4">
+        <h4>Oficina Virtual</h4>
+        <p><a href="https://www.facebook.com/facturaventa/"><i class="fa fa-facebook"></i> Facebook</a></p>
+        <p><a href="https://www.youtube.com/c/FacturaVentaPOS/videos"><i class="fa fa-youtube"></i> YouTube</a></p>
+        <p><i class="fa fa-envelope-o"></i> facturaventapos@gmail.com</p>
+      </div>
+      <div class="col-md-4">
+        <h4><a href="https://youtu.be/tD8UXK6MppI" target="_blank"><i class="fa fa-play-circle"></i> Ver demo en YouTube</a></h4>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="text-center">
+  <div class="container">
+    <img src="images/logo.png" class="img-responsive center-block" alt="FacturaventaPOS logo">
+    <p>© 2025 FacturaventaPOS — Todos los derechos reservados</p>
+  </div>
 </footer>
 
-<!-- javascript js comes here -->
+<!-- Scripts -->
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/smoothscroll.js"></script>
