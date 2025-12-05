@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.facturaventapos.com/sitemap.xml
+
+# Bloquear archivos innecesarios
+Disallow: /css/
+Disallow: /js/
+Disallow: /.idea/
