@@ -263,7 +263,7 @@ a:hover { text-decoration: none; }
 }
 .tm-home-3 .btn:hover { background: #a4c639; }
 
-/* home section -4*/  
+/* home section -4*/
 .tm-home-4 {
   background: url('../Hotel/propiedad-img-banner.png') no-repeat center center;
   background-size: cover;
@@ -273,6 +273,37 @@ a:hover { text-decoration: none; }
   padding-top: 120px;
   padding-bottom: 150px;
 }
+
+/* home section -5 Optometría*/
+.tm-home-5 {
+  background: url('../images/banner-optometria.jpg') no-repeat center center;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center center;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 120px;
+  padding-bottom: 150px;
+  min-height: 500px;
+}
+.tm-home-5 .btn {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
+          box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
+  border: none;
+  border-radius: 0;
+  font-size: 16px;
+  font-weight: bold;
+  width: 300px;
+  height: 60px;
+  margin-top: 60px;
+  padding: 20px 20px;
+  -webkit-transition: all 0.4s ease-in-out;
+          transition: all 0.4s ease-in-out;
+}
+.tm-home-5 .btn:hover { background: #a4c639; }
+
 .tm-home-logo {
 	font-size: 64px;
 	color: #9C0;
@@ -299,45 +330,6 @@ a:hover { text-decoration: none; }
           transition: all 0.4s ease-in-out;
 }
 .tm-home-4 .btn:hover { background: #a4c639; }
-
-/* home section -5*/  
-.tm-home-5 {
-  background: url('../images/chatbot.png') no-repeat center center;
-  background-size: cover;
-  color: #ffffff;
-  text-align: center;
-  vertical-align: middle;
-  padding-top: 120px;
-  padding-bottom: 150px;
-}
-.tm-home-logo-5 {
-	font-size: 64px;
-  text-align: left;
-	color: rgb(0, 0, 0);
-}
-.tm-home-header-5 {
-  font-size: 36px;
-  text-align: left;
-  font-style: normal;
-  text-transform: none;
-  color: #c5ecc7;
-}
-.tm-home-5 .btn {
-  background: #ffffff;
-  -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
-          box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
-  border: none;
-  border-radius: 0;
-  font-size: 16px;
-  font-weight: bold;
-  width: 300px;
-  height: 60px;
-  margin-top: 60px;
-  padding: 20px 20px;
-  -webkit-transition: all 0.4s ease-in-out;
-          transition: all 0.4s ease-in-out;
-}
-.tm-home-5 .btn:hover { background: #a4c639; }
 
 /* social icons section */
 
