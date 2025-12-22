@@ -4,7 +4,5 @@ Allow: /
 # Sitemap
 Sitemap: https://www.facturaventapos.com/sitemap.xml
 
-# Bloquear archivos innecesarios
-Disallow: /css/
-Disallow: /js/
+# Bloquear solo archivos de desarrollo
 Disallow: /.idea/
