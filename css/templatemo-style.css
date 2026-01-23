@@ -414,8 +414,8 @@ a:hover { text-decoration: none; }
 /* service section */
 .tm-service {
   background: #ffffff;
-  padding-top: 140px;
-  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 40px;
   text-align: center;
   vertical-align: middle;
 }
@@ -430,9 +430,9 @@ a:hover { text-decoration: none; }
   height: 80px;
   line-height: 80px;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 20px;
 }
-.tm-service-h3 { padding-bottom: 40px; }
+.tm-service-h3 { padding-bottom: 20px; }
 
 /* team section */
 .tm-team .container {
