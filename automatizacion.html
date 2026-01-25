@@ -369,6 +369,7 @@
   "name": "Agendamiento Automático de Citas por WhatsApp - FacturaventaPOS + Club Jampa",
   "serviceType": "Appointment Scheduling System",
   "description": "Sistema inteligente de agendamiento de citas por WhatsApp con integración a Google Calendar. Recordatorios automáticos, sincronización en tiempo real, sin apps adicionales. Ideal para barberías, clínicas, salones y negocios de servicios.",
+  "image": "https://www.facturaventapos.com/images/logo.png",
   "provider": {
     "@type": "Organization",
     "name": "FacturaventaPOS en alianza con Club Jampa",
@@ -393,14 +394,84 @@
       "name": "Plan Individual",
       "description": "Sistema de agendamiento con citas ilimitadas por calendario. Incluye integración Google Calendar, recordatorios automáticos, WhatsApp Flows nativo, intervalos personalizables.",
       "priceCurrency": "COP",
-      "availability": "https://schema.org/InStock"
+      "availability": "https://schema.org/InStock",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CO",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 7,
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/FreeReturn"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CO"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 0,
+            "unitCode": "DAY"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "0",
+          "currency": "COP"
+        }
+      }
     },
     {
       "@type": "Offer",
       "name": "Plan Equipo",
       "description": "Múltiples calendarios para equipos. Gestión centralizada, estadísticas, recordatorios personalizados, WhatsApp Business API, soporte prioritario.",
       "priceCurrency": "COP",
-      "availability": "https://schema.org/InStock"
+      "availability": "https://schema.org/InStock",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "CO",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 7,
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/FreeReturn"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "CO"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 0,
+            "unitCode": "DAY"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "0",
+          "currency": "COP"
+        }
+      }
     }
   ],
   "areaServed": {
