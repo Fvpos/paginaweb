@@ -421,7 +421,8 @@ a:hover { text-decoration: none; }
 }
 .tm-service .border-right { border-right: 1px solid #f9f9f9; }
 .tm-service .border-bottom { border-bottom: 1px solid #f9f9f9; }
-.tm-service .fa {
+.tm-service .fa,
+.tm-service .tm-service-icon {
   border-right: 2px solid #a4c639;
   border-left: 2px solid #202020;
   border-radius: 50%;
