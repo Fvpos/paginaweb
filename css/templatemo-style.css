@@ -434,6 +434,9 @@ a:hover { text-decoration: none; }
   margin-top: 20px;
 }
 .tm-service-h3 { padding-bottom: 20px; }
+.tm-service [class*="col-"] {
+  min-height: 220px;
+}
 
 /* team section */
 .tm-team .container {
