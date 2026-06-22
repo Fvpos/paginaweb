@@ -24,7 +24,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="software pos restaurantes colombia, sistema pos bares, punto de venta restaurantes, pos para bares colombia, software pos cocina, gestión mesas restaurante, comandas digitales, pos odoo restaurantes, sistema pedidos restaurante, software tpv bares">
-	<meta name="description" content="Sistema POS especializado para bares y restaurantes en Colombia. Gestión de mesas, comandas de cocina, múltiples meseros, pantallas remotas. Desde $60.000 COP/mes.">
+	<meta name="description" content="Sistema POS especializado para bares y restaurantes en Colombia. Gestión de mesas, comandas de cocina, múltiples meseros, pantallas remotas. Desde $60.000 COP/mes (15% de descuento pagando el año). Facturación electrónica ilimitada opcional.">
 	<meta name="author" content="FacturaventaPOS">
 	<meta name="robots" content="index, follow">
 	<link rel="canonical" href="https://www.facturaventapos.com/baresyrestaurantes.html">
@@ -50,6 +50,9 @@
 	<meta name="geographic-coverage" content="Colombia">
 	<meta name="product-category" content="Software POS Restaurantes, Sistema punto de venta bares">
 	<meta name="price-range" content="60000-120000 COP">
+	<meta name="billing-options" content="Pago mensual o pago anual con 15% de descuento (12 meses)">
+	<meta name="annual-prices" content="Planes anuales con 15% de descuento: $612.000, $714.000, $918.000 y $1.224.000 COP/año">
+	<meta name="electronic-invoicing" content="Facturación electrónica ilimitada opcional: +$49.900 COP/mes adicionales (sin descuento mensual); en plan anual aplica 15% de descuento">
 	<meta name="service-type" content="SaaS, Software as a Service">
 	<meta name="support-language" content="es-CO">
 
@@ -234,12 +237,21 @@
 <section id="price" class="tm-price">
 	<div class="container">
 		<div class="col-md- col-sm-12">
-			<h2 class="tm-price-section-heading">Nuestros Precios Pagando Mensual</h2>
+			<h2 class="tm-price-section-heading" id="price-heading">Nuestros Precios Pagando Mensual</h2>
+			<h4 style="text-align: center;">Todos los precios son <strong>sin facturación electrónica</strong>. Al pagar el año (12 meses) obtienes un <strong>15% de descuento</strong>.</h4>
+		</div>
+
+		<div class="col-md-12 col-sm-12" style="text-align: center; margin: 10px 0 30px;">
+			<div id="billing-toggle" style="display: inline-block; border: 2px solid #9C0; border-radius: 30px; overflow: hidden;">
+				<button type="button" class="billing-btn active" data-mode="monthly" style="border: none; padding: 10px 28px; font-size: 16px; font-weight: bold; cursor: pointer;">Mensual</button>
+				<button type="button" class="billing-btn" data-mode="annual" style="border: none; padding: 10px 28px; font-size: 16px; font-weight: bold; cursor: pointer;">Anual -15%</button>
+			</div>
 		</div>
 
 		<div class="col-md-3 col-sm-12">
 			<div class="plan wow bounceIn" data-wow-delay="0.1s">
-				<h3 class="plan_title" align="center">$60.000 COP</h3>
+				<h3 class="plan_title" align="center" data-monthly="$60.000 COP" data-annual="$612.000 COP">$60.000 COP</h3>
+					<p class="plan_period" align="center" style="margin-top: -10px; color: #9C0; font-weight: bold;">por mes</p>
 					<ul>
 						<li>Acceso al software por internet y soporte técnico por (1) Mes</li>
 						<li>Instalación y Capacitación Virtual</li>
@@ -252,12 +264,14 @@
 						<li>Copias de Seguridad semanales</li>
 						<li>Hosting en la Nube</li>
 					</ul>
+					<a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero) - plan mensual $60.000" class="btn btn-default plan_cta" data-monthly-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero) - plan mensual $60.000" data-annual-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero) - plan anual $612.000">Me interesa</a>
 			</div>
 		</div>
 
 		<div class="col-md-3 col-sm-12">
 			<div class="plan wow bounceIn" data-wow-delay="0.3s">
-				<h3 class="plan_title" align="center">$70.000 COP</h3>
+				<h3 class="plan_title" align="center" data-monthly="$70.000 COP" data-annual="$714.000 COP">$70.000 COP</h3>
+					<p class="plan_period" align="center" style="margin-top: -10px; color: #9C0; font-weight: bold;">por mes</p>
 					<ul>
 						<li>Acceso al software por internet y soporte técnico por (1) mes</li>
 						<li>Instalación y Capacitación Virtual</li>
@@ -271,11 +285,13 @@
 						<li>Copias de Seguridad semanales</li>
 						<li>Hosting en la Nube</li>
 					</ul>
+					<a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero + 1 Pantalla Remota) - plan mensual $70.000" class="btn btn-default plan_cta" data-monthly-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero + 1 Pantalla Remota) - plan mensual $70.000" data-annual-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 1 Mesero + 1 Pantalla Remota) - plan anual $714.000">Me interesa</a>
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-12">
 			<div class="plan wow bounceIn" data-wow-delay="0.6s">
-				<h3 class="plan_title" align="center">$90.000 COP</h3>
+				<h3 class="plan_title" align="center" data-monthly="$90.000 COP" data-annual="$918.000 COP">$90.000 COP</h3>
+					<p class="plan_period" align="center" style="margin-top: -10px; color: #9C0; font-weight: bold;">por mes</p>
 					<ul>
 						<li>Acceso al software por internet y soporte técnico por (1) mes</li>
 						<li>Instalación y Capacitación Virtual</li>
@@ -289,11 +305,13 @@
 						<li>Copias de Seguridad semanales</li>
 						<li>Hosting en la Nube</li>
 					</ul>
+					<a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 2 Meseros + 1 Pantalla Remota) - plan mensual $90.000" class="btn btn-default plan_cta" data-monthly-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 2 Meseros + 1 Pantalla Remota) - plan mensual $90.000" data-annual-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 2 Meseros + 1 Pantalla Remota) - plan anual $918.000">Me interesa</a>
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-12">
 			<div class="plan wow bounceIn" data-wow-delay="0.9s">
-				<h3 class="plan_title" align="center">$120.000 COP</h3>
+				<h3 class="plan_title" align="center" data-monthly="$120.000 COP" data-annual="$1.224.000 COP">$120.000 COP</h3>
+					<p class="plan_period" align="center" style="margin-top: -10px; color: #9C0; font-weight: bold;">por mes</p>
 					<ul>
 						<li>Acceso al software por internet y soporte técnico por (1) Mes</li>
 						<li>Instalación y Capacitación Virtual</li>
@@ -308,11 +326,23 @@
 						<li>Copias de Seguridad semanales</li>
 						<li>Hosting en la Nube</li>
 					</ul>
+					<a href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 4 Meseros + 2 Pantallas Remotas) - plan mensual $120.000" class="btn btn-default plan_cta" data-monthly-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 4 Meseros + 2 Pantallas Remotas) - plan mensual $120.000" data-annual-href="https://api.whatsapp.com/send?phone=573145194892&text=Hola, me interesa el plan POS para bares y restaurantes (1 Caja + 4 Meseros + 2 Pantallas Remotas) - plan anual $1.224.000">Me interesa</a>
 			</div>
 		</div>
 		
+		<div class="col-md-12 col-sm-12" style="clear: both;">
+			<div style="max-width: 820px; margin: 40px auto 0; padding: 30px; border: 2px solid #9C0; border-radius: 12px; background: #f9fdf0; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
+				<h3 style="text-align: center; color: #9C0; margin-top: 0;"><i class="fa fa-file-text-o" aria-hidden="true"></i> Facturación Electrónica Ilimitada (Opcional)</h3>
+				<h4 style="text-align: center;">¿Necesitas facturación electrónica? Puedes agregarla a cualquier plan:</h4>
+				<ul style="max-width: 700px; margin: 20px auto 0;">
+					<li><strong>Suscripción mensual:</strong> +$49.900 COP adicionales por mes (sin descuento).</li>
+					<li><strong>Paquete anual:</strong> la facturación electrónica también recibe el <strong>15% de descuento</strong> al pagar el año.</li>
+				</ul>
+			</div>
+		</div>
+
 		<div class="col-md-12 col-sm-12">
-			<h4>Los planes en la nube (de pago mensual y de pago anual) se ofrecen en la modalidad SaaS (Software as a service) que significa que el software es un servicio disponible a través de internet. El software se arrienda y vende "como es" y permitimos al usuario evaluar sus características en un demo tipo test drive en línea sin costo. Los planes de la modalidad SaaS no tienen permanencia.</h4> 
+			<h4>Los planes en la nube (de pago mensual y de pago anual) se ofrecen en la modalidad SaaS (Software as a service) que significa que el software es un servicio disponible a través de internet. El software se arrienda y vende "como es" y permitimos al usuario evaluar sus características en un demo tipo test drive en línea sin costo. Los planes de la modalidad SaaS no tienen permanencia.</h4>
 		</div>
 	</div>
 </section>
@@ -383,9 +413,11 @@
     "@type": "AggregateOffer",
     "priceCurrency": "COP",
     "lowPrice": "60000",
-    "highPrice": "120000"
+    "highPrice": "120000",
+    "offerCount": "4",
+    "description": "Precios mensuales sin facturación electrónica. Pago anual (12 meses) con 15% de descuento: $612.000, $714.000, $918.000 y $1.224.000 COP/año. Facturación electrónica ilimitada opcional: +$49.900 COP/mes (con 15% de descuento en plan anual)."
   },
-  "description": "Sistema POS especializado para bares y restaurantes en Colombia. Gestión de mesas, comandas de cocina, múltiples meseros, pantallas remotas.",
+  "description": "Sistema POS especializado para bares y restaurantes en Colombia. Gestión de mesas, comandas de cocina, múltiples meseros, pantallas remotas. Precios mensuales desde $60.000 COP, con 15% de descuento al pagar el año. Facturación electrónica ilimitada opcional por +$49.900 COP/mes.",
   "featureList": [
     "Gestión de mesas y pisos",
     "Comandas de cocina",
@@ -394,7 +426,9 @@
     "Inventarios avanzados (Recetas)",
     "Propinas o cargo por servicio",
     "Atributos de producto",
-    "Pedidos en restaurante y domicilio"
+    "Pedidos en restaurante y domicilio",
+    "Facturación electrónica ilimitada (opcional)",
+    "Pago mensual o anual con 15% de descuento"
   ],
   "provider": {
     "@type": "Organization",
@@ -427,7 +461,23 @@
       "name": "¿Cuánto cuesta un sistema POS para restaurantes en Colombia?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Los planes para restaurantes van desde $60.000 COP mensuales (1 caja + 1 mesero) hasta $120.000 COP (1 caja + 4 meseros + 2 pantallas remotas). Incluyen gestión de mesas, comandas de cocina e inventarios."
+        "text": "Los planes para restaurantes van desde $60.000 COP mensuales (1 caja + 1 mesero) hasta $120.000 COP (1 caja + 4 meseros + 2 pantallas remotas). Incluyen gestión de mesas, comandas de cocina e inventarios. Todos los precios son sin facturación electrónica. Pagando el año (12 meses) obtienes un 15% de descuento: $612.000, $714.000, $918.000 y $1.224.000 COP/año respectivamente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Tienen descuento por pago anual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Al pagar el año completo (12 meses) obtienes un 15% de descuento sobre cualquier plan. Los precios anuales con descuento son: $612.000 COP (plan de $60.000/mes), $714.000 COP (plan de $70.000/mes), $918.000 COP (plan de $90.000/mes) y $1.224.000 COP (plan de $120.000/mes)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿La facturación electrónica está incluida? ¿Cuánto cuesta agregarla?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los planes se ofrecen sin facturación electrónica. Puedes agregar facturación electrónica ilimitada a cualquier plan por un costo adicional de $49.900 COP por mes (sin descuento en suscripciones mensuales). Si la agregas a un paquete anual, la facturación electrónica también recibe el 15% de descuento."
       }
     },
     {
@@ -511,7 +561,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Sistema POS Restaurante Básico - $60.000 COP",
-  "description": "Sistema POS para restaurantes con 1 caja + 1 mesero, tickets de cocina, inventarios avanzados con recetas, facturas POS ilimitadas.",
+  "description": "Sistema POS para restaurantes con 1 caja + 1 mesero, tickets de cocina, inventarios avanzados con recetas, facturas POS ilimitadas. Precio mensual sin facturación electrónica; pago anual $612.000 COP/año con 15% de descuento. Facturación electrónica ilimitada opcional +$49.900 COP/mes.",
   "image": "https://www.facturaventapos.com/images/1.png",
   "brand": {
     "@type": "Brand",
@@ -570,7 +620,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Sistema POS Restaurante + Pantalla Remota - $70.000 COP",
-  "description": "Sistema POS para restaurantes con 1 caja + 1 mesero + 1 pantalla remota para cocina, tickets, inventarios con recetas.",
+  "description": "Sistema POS para restaurantes con 1 caja + 1 mesero + 1 pantalla remota para cocina, tickets, inventarios con recetas. Precio mensual sin facturación electrónica; pago anual $714.000 COP/año con 15% de descuento. Facturación electrónica ilimitada opcional +$49.900 COP/mes.",
   "image": "https://www.facturaventapos.com/images/1.png",
   "brand": {
     "@type": "Brand",
@@ -629,7 +679,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Sistema POS Restaurante 2 Meseros - $90.000 COP",
-  "description": "Sistema POS para restaurantes con 1 caja + 2 meseros + 1 pantalla remota para cocina, gestión completa de pedidos.",
+  "description": "Sistema POS para restaurantes con 1 caja + 2 meseros + 1 pantalla remota para cocina, gestión completa de pedidos. Precio mensual sin facturación electrónica; pago anual $918.000 COP/año con 15% de descuento. Facturación electrónica ilimitada opcional +$49.900 COP/mes.",
   "image": "https://www.facturaventapos.com/images/1.png",
   "brand": {
     "@type": "Brand",
@@ -688,7 +738,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Sistema POS Restaurante Completo - $120.000 COP",
-  "description": "Sistema POS completo para restaurantes con 1 caja + 4 meseros + 2 pantallas remotas (cocina y bar), gestión avanzada.",
+  "description": "Sistema POS completo para restaurantes con 1 caja + 4 meseros + 2 pantallas remotas (cocina y bar), gestión avanzada. Precio mensual sin facturación electrónica; pago anual $1.224.000 COP/año con 15% de descuento. Facturación electrónica ilimitada opcional +$49.900 COP/mes.",
   "image": "https://www.facturaventapos.com/images/1.png",
   "brand": {
     "@type": "Brand",
@@ -741,6 +791,30 @@
 }
 </script>
 
+<!-- Product Schema - Complemento Facturación Electrónica -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Facturación Electrónica Ilimitada (Complemento) - $49.900 COP/mes",
+  "description": "Complemento opcional de facturación electrónica ilimitada para cualquier plan POS de bares y restaurantes. Costo adicional de $49.900 COP por mes sin descuento en suscripciones mensuales. En el paquete anual aplica el 15% de descuento.",
+  "image": "https://www.facturaventapos.com/images/1.png",
+  "brand": {
+    "@type": "Brand",
+    "name": "FacturaventaPOS"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "49900",
+    "priceCurrency": "COP",
+    "availability": "https://schema.org/InStock",
+    "url": "https://www.facturaventapos.com/baresyrestaurantes.html",
+    "priceValidUntil": "2026-12-31"
+  },
+  "category": "Facturación electrónica para POS"
+}
+</script>
+
 <!-- javascript js comes here -->
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -751,6 +825,56 @@
 <script src="js/nivo-lightbox.min.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/custom.js"></script>
+
+<!-- Selector de facturación Mensual / Anual -->
+<script>
+(function () {
+	var toggle = document.getElementById('billing-toggle');
+	if (!toggle) return;
+
+	var buttons = toggle.querySelectorAll('.billing-btn');
+	var titles = document.querySelectorAll('#price .plan_title');
+	var periods = document.querySelectorAll('#price .plan_period');
+	var ctas = document.querySelectorAll('#price .plan_cta');
+	var heading = document.getElementById('price-heading');
+
+	function paint(btn, isActive) {
+		btn.style.background = isActive ? '#9C0' : '#ffffff';
+		btn.style.color = isActive ? '#ffffff' : '#9C0';
+	}
+
+	function setMode(mode) {
+		titles.forEach(function (t) {
+			var value = t.getAttribute(mode === 'annual' ? 'data-annual' : 'data-monthly');
+			if (value) t.textContent = value;
+		});
+		periods.forEach(function (p) {
+			p.textContent = mode === 'annual' ? 'por año (ahorras 15%)' : 'por mes';
+		});
+		ctas.forEach(function (a) {
+			var href = a.getAttribute(mode === 'annual' ? 'data-annual-href' : 'data-monthly-href');
+			if (href) a.setAttribute('href', href);
+		});
+		if (heading) {
+			heading.textContent = mode === 'annual'
+				? 'Nuestros Precios Pagando Anual'
+				: 'Nuestros Precios Pagando Mensual';
+		}
+		buttons.forEach(function (b) {
+			var active = b.getAttribute('data-mode') === mode;
+			b.classList.toggle('active', active);
+			paint(b, active);
+		});
+	}
+
+	buttons.forEach(function (b) {
+		paint(b, b.classList.contains('active'));
+		b.addEventListener('click', function () {
+			setMode(b.getAttribute('data-mode'));
+		});
+	});
+})();
+</script>
 
 </body>
 </html>
