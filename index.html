@@ -55,7 +55,10 @@
 	<meta name="support-language" content="es-CO">
 
 	<!-- site title -->
-	<title>FacturaventaPOS - Sistema POS para Tiendas en Colombia | Software Punto de Venta</title>
+	<title>Software POS Gratis 3 Meses en Colombia | FacturaventaPOS</title>
+	<!-- Preconnect para acelerar la carga de fuentes (mejora Core Web Vitals / SEO) -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<!-- Stylesheets css comes here -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/whatsapp.css">
@@ -69,6 +72,9 @@
 
 	<!-- Mejoras de experiencia / conversión (respetan la paleta del template) -->
 	<style>
+		/* Mantener el tamaño visual del título de la sección "about" tras pasar de h1 a h2 */
+		.tm-about .about-des h2.tm-about-title { font-size: 36px; padding-bottom: 22px; }
+
 		/* ----- Destacado prueba gratis en el hero ----- */
 		.tm-home-free {
 			display: inline-block;
@@ -432,7 +438,7 @@
 				<img src="images/about-img2.jpg" class="img-responsive wow fadeInUp" data-wow-delay="0.6s" alt="Software POS con facturación electrónica Colombia">
 			</div>
 			<div class="col-md-5 col-sm-12 about-des wow fadeInRight" data-wow-delay="0.9s">
-				<h1>Caracteristicas que no encontraras en ninguna otra parte</h1>
+				<h2 class="tm-about-title">Características del Sistema POS que no encontrarás en ninguna otra parte</h2>
 				<h3 class="tm-about-h3">Hosting en Colombia para que tengas la mejor velocidad de conexión</h3>
 				<p>Ahora FacturaventaPOS con un nuevo módulo que te permite abrir desde cualquier navegador web tu sistema POS. Ahora podrás conectarte de forma rápida y segura desde cualquier tipo de dispositivo electrónico para hacer las tareas que necesites sin interrumpir las ventas en tus Puntos de Pago.</p>
                 <p>Tendrás módulos muy importantes para tu Punto de Venta tales como compras, inventarios, facturación, empleados y paquetes de productos. Además de muchos reportes de ventas e inventarios</p>
@@ -810,6 +816,14 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Existe un software POS gratis en Colombia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. FacturaventaPOS ofrece una prueba gratis por 3 meses de su sistema POS, sin tarjeta de crédito y sin permanencia. Incluye acceso al software y soporte técnico por 3 meses, videos de capacitación en YouTube, almacenamiento ilimitado de facturas, productos y clientes, hasta 1 caja y 2 usuarios en línea, facturas POS ilimitadas y hosting en la nube. Solo debes registrarte en el formulario para activar tu cuenta gratuita."
+      }
+    },
     {
       "@type": "Question",
       "name": "¿Cuánto cuesta un sistema POS en Colombia?",
