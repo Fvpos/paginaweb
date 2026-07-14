@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75b0f1e9-f0ad-4884-876e-848e3186d995" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="113" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fvpos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fvpos/paginaweb.git&quot;,
+    &quot;accountId&quot;: &quot;f4cf4773-b6c0-4e1f-8303-41718341b93d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001382914917232" />
+      <entry key="MS500" value="1.1735931318304915" />
+      <entry key="S2" value="1.9000852317391816" />
+      <entry key="S5" value="2.4246805243431013" />
+      <entry key="S10" value="2.7791817016401374" />
+      <entry key="S30" value="3.6235971893374073" />
+      <entry key="S60" value="4.156832543197423" />
+      <entry key="M2" value="4.529537087404676" />
+      <entry key="M5" value="4.7984757032906975" />
+      <entry key="M10" value="4.896865131205471" />
+      <entry key="M15" value="4.930704466757074" />
+      <entry key="M30" value="4.965079774588784" />
+      <entry key="H1" value="4.982471207686292" />
+      <entry key="H2" value="4.991218362812528" />
+      <entry key="H4" value="4.9956048622251625" />
+      <entry key="D1" value="4.999266876392362" />
+      <entry key="W1" value="4.999895253336468" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.972789457315871" />
+      <entry key="MS500" value="1.1670910048057166" />
+      <entry key="S2" value="1.897273848325661" />
+      <entry key="S5" value="2.423017490559688" />
+      <entry key="S10" value="2.7766504467568693" />
+      <entry key="S30" value="3.619008473978642" />
+      <entry key="S60" value="4.153117014144883" />
+      <entry key="M2" value="4.5271636032975" />
+      <entry key="M5" value="4.797374918370949" />
+      <entry key="M10" value="4.896286832663163" />
+      <entry key="M15" value="4.930312520023277" />
+      <entry key="M30" value="4.964880539258013" />
+      <entry key="H1" value="4.982370764113011" />
+      <entry key="H2" value="4.991167933233863" />
+      <entry key="H4" value="4.995579595322627" />
+      <entry key="D1" value="4.999262657989934" />
+      <entry key="W1" value="4.999894650529767" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DRlw0Zc5KO5gKr61UPyHESmyRx" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b0f1e9-f0ad-4884-876e-848e3186d995" name="Changes" comment="" />
+      <created>1778252997497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778252997497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Actualizacion Links de Youtube">
+      <option name="closed" value="true" />
+      <created>1778253366058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778253366058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mejoras en LPR">
+      <option name="closed" value="true" />
+      <created>1780095410054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780095410054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mejoras estilo">
+      <option name="closed" value="true" />
+      <created>1780096313366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780096313366</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mejoras estilo">
+      <option name="closed" value="true" />
+      <created>1780145168206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780145168206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mejoras estilo">
+      <option name="closed" value="true" />
+      <created>1781895634059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781895634059</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajuste DIAN">
+      <option name="closed" value="true" />
+      <created>1781895652785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781895652785</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mejoras y promociones">
+      <option name="closed" value="true" />
+      <created>1782154580528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782154580528</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Mejoras CEO y promociones">
+      <option name="closed" value="true" />
+      <created>1782154852165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782154852165</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mejoras CEO y promociones">
+      <option name="closed" value="true" />
+      <created>1782155053850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782155053850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mejoras en apariencia y botones informativos">
+      <option name="closed" value="true" />
+      <created>1782168671167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782168671167</updated>
+    </task>
+    <task id="LOCAL-00011" summary="actualizacion cupon">
+      <option name="closed" value="true" />
+      <created>1782168828063</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782168828063</updated>
+    </task>
+    <task id="LOCAL-00012" summary="actualizacion cupon">
+      <option name="closed" value="true" />
+      <created>1782426066849</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782426066849</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Cerfiticados no incluidos">
+      <option name="closed" value="true" />
+      <created>1782589392550</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782589392550</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix mesas">
+      <option name="closed" value="true" />
+      <created>1782665877060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782665877060</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Precio año sin FE" />
+    <MESSAGE value="Actualizacion Links de Youtube" />
+    <MESSAGE value="Mejoras en LPR" />
+    <MESSAGE value="Mejoras estilo" />
+    <MESSAGE value="Ajuste DIAN" />
+    <MESSAGE value="Mejoras y promociones" />
+    <MESSAGE value="Mejoras CEO y promociones" />
+    <MESSAGE value="Mejoras en apariencia y botones informativos" />
+    <MESSAGE value="actualizacion cupon" />
+    <MESSAGE value="Cerfiticados no incluidos" />
+    <MESSAGE value="fix mesas" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix mesas" />
+  </component>
+</project>
