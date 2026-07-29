@@ -1,0 +1,188 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"75b0f1e9-f0ad-4884-876e-848e3186d995\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"EmbeddingIndexingInfo\">\n    <option name=\"cachedIndexableFilesCount\" value=\"113\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Fvpos&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/Fvpos/paginaweb.git&quot;,\n    &quot;accountId&quot;: &quot;f4cf4773-b6c0-4e1f-8303-41718341b93d&quot;\n  }\n}</component>\n  <component name=\"McpProjectServerCommands\">\n    <commands />\n    <urls />\n  </component>\n  <component name=\"NextEditCompletionFeaturesState\">\n    <decayedCancelled>\n      <entry key=\"MS100\" value=\"1.0001382914917232\" />\n      <entry key=\"MS500\" value=\"1.1735931318304915\" />\n      <entry key=\"S2\" value=\"1.9000852317391816\" />\n      <entry key=\"S5\" value=\"2.4246805243431013\" />\n      <entry key=\"S10\" value=\"2.7791817016401374\" />\n      <entry key=\"S30\" value=\"3.6235971893374073\" />\n      <entry key=\"S60\" value=\"4.156832543197423\" />\n      <entry key=\"M2\" value=\"4.529537087404676\" />\n      <entry key=\"M5\" value=\"4.7984757032906975\" />\n      <entry key=\"M10\" value=\"4.896865131205471\" />\n      <entry key=\"M15\" value=\"4.930704466757074\" />\n      <entry key=\"M30\" value=\"4.965079774588784\" />\n      <entry key=\"H1\" value=\"4.982471207686292\" />\n      <entry key=\"H2\" value=\"4.991218362812528\" />\n      <entry key=\"H4\" value=\"4.9956048622251625\" />\n      <entry key=\"D1\" value=\"4.999266876392362\" />\n      <entry key=\"W1\" value=\"4.999895253336468\" />\n    </decayedCancelled>\n    <decayedSelected>\n      <entry key=\"MS100\" value=\"0.0\" />\n      <entry key=\"MS500\" value=\"0.0\" />\n      <entry key=\"S2\" value=\"0.0\" />\n      <entry key=\"S5\" value=\"0.0\" />\n      <entry key=\"S10\" value=\"0.0\" />\n      <entry key=\"S30\" value=\"0.0\" />\n      <entry key=\"S60\" value=\"0.0\" />\n      <entry key=\"M2\" value=\"0.0\" />\n      <entry key=\"M5\" value=\"0.0\" />\n      <entry key=\"M10\" value=\"0.0\" />\n      <entry key=\"M15\" value=\"0.0\" />\n      <entry key=\"M30\" value=\"0.0\" />\n      <entry key=\"H1\" value=\"0.0\" />\n      <entry key=\"H2\" value=\"0.0\" />\n      <entry key=\"H4\" value=\"0.0\" />\n      <entry key=\"D1\" value=\"0.0\" />\n      <entry key=\"W1\" value=\"0.0\" />\n    </decayedSelected>\n    <decayedShown>\n      <entry key=\"MS100\" value=\"0.972789457315871\" />\n      <entry key=\"MS500\" value=\"1.1670910048057166\" />\n      <entry key=\"S2\" value=\"1.897273848325661\" />\n      <entry key=\"S5\" value=\"2.423017490559688\" />\n      <entry key=\"S10\" value=\"2.7766504467568693\" />\n      <entry key=\"S30\" value=\"3.619008473978642\" />\n      <entry key=\"S60\" value=\"4.153117014144883\" />\n      <entry key=\"M2\" value=\"4.5271636032975\" />\n      <entry key=\"M5\" value=\"4.797374918370949\" />\n      <entry key=\"M10\" value=\"4.896286832663163\" />\n      <entry key=\"M15\" value=\"4.930312520023277\" />\n      <entry key=\"M30\" value=\"4.964880539258013\" />\n      <entry key=\"H1\" value=\"4.982370764113011\" />\n      <entry key=\"H2\" value=\"4.991167933233863\" />\n      <entry key=\"H4\" value=\"4.995579595322627\" />\n      <entry key=\"D1\" value=\"4.999262657989934\" />\n      <entry key=\"W1\" value=\"4.999894650529767\" />\n    </decayedShown>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8,\n  &quot;fromUser&quot;: false\n}</component>\n  <component name=\"ProjectId\" id=\"3DRlw0Zc5KO5gKr61UPyHESmyRx\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <OptionsSetting value=\"false\" id=\"Update\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\n    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;\n  },\n  &quot;keyToStringList&quot;: {\n    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [\n      &quot;directory&quot;,\n      &quot;module&quot;,\n      &quot;repository&quot;\n    ]\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"75b0f1e9-f0ad-4884-876e-848e3186d995\" name=\"Changes\" comment=\"\" />\n      <created>1778252997497</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1778252997497</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Actualizacion Links de Youtube\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1778253366058</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1778253366058</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Mejoras en LPR\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1780095410054</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1780095410054</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Mejoras estilo\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1780096313366</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1780096313366</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Mejoras estilo\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1780145168206</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1780145168206</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Mejoras estilo\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1781895634059</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1781895634059</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Ajuste DIAN\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1781895652785</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1781895652785</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Mejoras y promociones\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782154580528</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782154580528</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Mejoras CEO y promociones\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782154852165</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782154852165</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Mejoras CEO y promociones\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782155053850</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782155053850</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Mejoras en apariencia y botones informativos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782168671167</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782168671167</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"actualizacion cupon\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782168828063</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782168828063</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"actualizacion cupon\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782426066849</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782426066849</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"Cerfiticados no incluidos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782589392550</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782589392550</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"fix mesas\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1782665877060</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1782665877060</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"15\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Update Precio año sin FE\" />\n    <MESSAGE value=\"Actualizacion Links de Youtube\" />\n    <MESSAGE value=\"Mejoras en LPR\" />\n    <MESSAGE value=\"Mejoras estilo\" />\n    <MESSAGE value=\"Ajuste DIAN\" />\n    <MESSAGE value=\"Mejoras y promociones\" />\n    <MESSAGE value=\"Mejoras CEO y promociones\" />\n    <MESSAGE value=\"Mejoras en apariencia y botones informativos\" />\n    <MESSAGE value=\"actualizacion cupon\" />\n    <MESSAGE value=\"Cerfiticados no incluidos\" />\n    <MESSAGE value=\"fix mesas\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"fix mesas\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f2c44470be48535935a9d3043cedd2c47241e868)
++++ b/.idea/workspace.xml	(date 1784951678369)
+@@ -11,7 +11,7 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="EmbeddingIndexingInfo">
+-    <option name="cachedIndexableFilesCount" value="113" />
++    <option name="cachedIndexableFilesCount" value="116" />
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -34,23 +34,23 @@
+   </component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.0001382914917232" />
+-      <entry key="MS500" value="1.1735931318304915" />
+-      <entry key="S2" value="1.9000852317391816" />
+-      <entry key="S5" value="2.4246805243431013" />
+-      <entry key="S10" value="2.7791817016401374" />
+-      <entry key="S30" value="3.6235971893374073" />
+-      <entry key="S60" value="4.156832543197423" />
+-      <entry key="M2" value="4.529537087404676" />
+-      <entry key="M5" value="4.7984757032906975" />
+-      <entry key="M10" value="4.896865131205471" />
+-      <entry key="M15" value="4.930704466757074" />
+-      <entry key="M30" value="4.965079774588784" />
+-      <entry key="H1" value="4.982471207686292" />
+-      <entry key="H2" value="4.991218362812528" />
+-      <entry key="H4" value="4.9956048622251625" />
+-      <entry key="D1" value="4.999266876392362" />
+-      <entry key="W1" value="4.999895253336468" />
++      <entry key="MS100" value="1.2207620446476586" />
++      <entry key="MS500" value="2.6997050384419703" />
++      <entry key="S2" value="6.06506246683954" />
++      <entry key="S5" value="7.986122666377879" />
++      <entry key="S10" value="8.977504292003811" />
++      <entry key="S30" value="10.31100962264568" />
++      <entry key="S60" value="10.987779528116675" />
++      <entry key="M2" value="11.440644274558057" />
++      <entry key="M5" value="11.761668729196108" />
++      <entry key="M10" value="11.878233806786803" />
++      <entry key="M15" value="11.918231398434914" />
++      <entry key="M30" value="11.958816747989145" />
++      <entry key="H1" value="11.979332995264455" />
++      <entry key="H2" value="11.989647572225792" />
++      <entry key="H4" value="11.99481904463252" />
++      <entry key="D1" value="11.999135848038337" />
++      <entry key="W1" value="11.999876533559936" />
+     </decayedCancelled>
+     <decayedSelected>
+       <entry key="MS100" value="0.0" />
+@@ -72,23 +72,23 @@
+       <entry key="W1" value="0.0" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="0.972789457315871" />
+-      <entry key="MS500" value="1.1670910048057166" />
+-      <entry key="S2" value="1.897273848325661" />
+-      <entry key="S5" value="2.423017490559688" />
+-      <entry key="S10" value="2.7766504467568693" />
+-      <entry key="S30" value="3.619008473978642" />
+-      <entry key="S60" value="4.153117014144883" />
+-      <entry key="M2" value="4.5271636032975" />
+-      <entry key="M5" value="4.797374918370949" />
+-      <entry key="M10" value="4.896286832663163" />
+-      <entry key="M15" value="4.930312520023277" />
+-      <entry key="M30" value="4.964880539258013" />
+-      <entry key="H1" value="4.982370764113011" />
+-      <entry key="H2" value="4.991167933233863" />
+-      <entry key="H4" value="4.995579595322627" />
+-      <entry key="D1" value="4.999262657989934" />
+-      <entry key="W1" value="4.999894650529767" />
++      <entry key="MS100" value="1.1956296819034669" />
++      <entry key="MS500" value="2.6835118440290966" />
++      <entry key="S2" value="6.050533792741305" />
++      <entry key="S5" value="7.977763514141402" />
++      <entry key="S10" value="8.971351103138998" />
++      <entry key="S30" value="10.305208197882184" />
++      <entry key="S60" value="10.983427611125945" />
++      <entry key="M2" value="11.437935345049757" />
++      <entry key="M5" value="11.76042759669581" />
++      <entry key="M10" value="11.877584092084062" />
++      <entry key="M15" value="11.917791547098581" />
++      <entry key="M30" value="11.958593408809602" />
++      <entry key="H1" value="11.97922046099221" />
++      <entry key="H2" value="11.989591087491348" />
++      <entry key="H4" value="11.994790747686329" />
++      <entry key="D1" value="11.999131124284954" />
++      <entry key="W1" value="11.99987585855181" />
+     </decayedShown>
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -114,6 +114,7 @@
+     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/n1c0/PycharmProjects/paginaweb/images&quot;,
+     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+@@ -130,10 +131,42 @@
+     ]
+   }
+ }</component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/images" />
++      <recent name="$PROJECT_DIR$/images/iconospq" />
++    </key>
++  </component>
++  <component name="RunManager">
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
++      <module name="paginaweb" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <option name="RUN_TOOL" value="" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
++        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -257,7 +290,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1782665877060</updated>
+     </task>
+-    <option name="localTasksCounter" value="15" />
++    <task id="LOCAL-00015" summary="modo noche cocina">
++      <option name="closed" value="true" />
++      <created>1784067137244</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1784067137244</updated>
++    </task>
++    <task id="LOCAL-00016" summary="modo noche cocina">
++      <option name="closed" value="true" />
++      <created>1784067165255</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1784067165255</updated>
++    </task>
++    <option name="localTasksCounter" value="17" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -286,6 +335,7 @@
+     <MESSAGE value="actualizacion cupon" />
+     <MESSAGE value="Cerfiticados no incluidos" />
+     <MESSAGE value="fix mesas" />
+-    <option name="LAST_COMMIT_MESSAGE" value="fix mesas" />
++    <MESSAGE value="modo noche cocina" />
++    <option name="LAST_COMMIT_MESSAGE" value="modo noche cocina" />
+   </component>
+ </project>
+\ No newline at end of file
