@@ -1,0 +1,16 @@
+FacturaventaPOS | Software POS 100% web para Colombia 🇨🇴
+
+Tutoriales y demos para llevar el control total de tu negocio con nuestro punto de venta en la nube: úsalo desde computador, tablet o celular, sin instalar nada y con hosting en Colombia para máxima velocidad.
+
+Qué encontrarás aquí:
+🛒 POS para tiendas, minimercados, ferreterías, panaderías, distribuidoras, ropa, mascotas y talleres
+🍽️ Bares y restaurantes: mesas, comandas en cocina, meseros, domicilios y propinas
+🏨 Hoteles: reservas, check-in/check-out y disponibilidad
+🚗 Parqueaderos: detección de placas por cámara (LPR/ANPR), tarifas y membresías
+👓 Ópticas: exámenes visuales, prescripciones e inventario de lentes
+🧾 Facturación electrónica DIAN, inventarios, CxC/CxP y reportes
+🤖 Automatización de citas por WhatsApp + Google Calendar
+
+Altamente personalizable, sin permanencia y con soporte y capacitación incluidos.
+
+👉 Pruébalo GRATIS 3 meses: www.facturaventapos.com
