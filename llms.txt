@@ -1,0 +1,16 @@
+# FacturaventaPOS (Factura Venta POS)
+
+> FacturaventaPOS (también escrito «Factura Venta POS» o «Factura de Venta POS») es un sistema POS 100 % web para negocios en Colombia, con factura de venta electrónica DIAN desde el punto de venta, inventarios y varias cajas. En alianza con PedidosWPP ofrece pedidos por WhatsApp con IA para restaurantes y tiendas. Contacto: +57 314 519 4892 · facturaventapos@gmail.com.
+
+## Páginas
+
+- [POS para tiendas y minoristas](https://www.facturaventapos.com/index.html): sistema POS web con facturación electrónica, inventarios y múltiples cajas. Prueba gratis 3 meses; desde $60.000 COP al mes.
+- [POS para bares y restaurantes](https://www.facturaventapos.com/baresyrestaurantes.html): gestión de mesas, comandas de cocina, meseros y pantallas remotas. Desde $60.000 COP al mes.
+- [Pedidos por WhatsApp con IA (FacturaventaPOS + PedidosWPP)](https://www.facturaventapos.com/automatizacion.html): automatiza los pedidos por WhatsApp. El cliente pide en el catálogo de WhatsApp, un agente de IA cierra el pedido (dirección, domicilio y pago) y el pedido llega a la pantalla de cocina y al domiciliario. Sin comisión por pedido; planes desde USD 99 al mes, con precios en pesos según la TRM del día.
+- [POS para parqueaderos](https://www.facturaventapos.com/parqueaderos.html): control de entrada y salida con detección de placas por cámara (LPR), tarifas por tiempo y facturación.
+- [POS para ópticas y optometrías](https://www.facturaventapos.com/optometriapos.html): exámenes visuales, prescripciones, inventario de lentes y facturación. Desde $90.000 COP al mes.
+- [POS para hoteles](https://www.facturaventapos.com/hoteles.html): habitaciones, reservas y facturación hotelera en la nube.
+
+## Aliados
+
+- [PedidosWPP](https://pedidoswpp.com/): sistema de pedidos por WhatsApp con IA, pantalla de cocina y domiciliarios.
